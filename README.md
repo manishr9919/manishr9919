@@ -1,24 +1,28 @@
 ![logo](https://github.com/manishr9919/manishr9919/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Manish kumar rauniyar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<image  width="400px" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<h1 align="center">Hi 👋, I'm Manish kumar Rauniyar</h1>
+<p>Dynamic full-stack web developer proficient in the MERN stack. 
+    Skilled in creating and maintaining web applications, ensuring high performance and responsiveness.
+     Strong problem-solving abilities and effective collaboration in team settings.
+     Eager to contribute technical and soft skills to a forward-thinking organization.</p>
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
+<!-- <image  width="400px" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+    <!-- <image  width="400px" align="center" src="C:\Users\manis\Desktop\profesenal resume\portfolio\images\manish.JPG"></image> -->
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishr9919&label=Profile%20views&color=0e75b6&style=flat" alt="manishr9919" /> </p>
+![ my photo](https://avatars.githubusercontent.com/u/143373628?v=4)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishr9919" alt="manishr9919" /></a> </p>
+<h4>🌱 I’m currently learning Web development course</h4>
 
-- 🌱 I’m currently learning **Web development course**
 
-- 📫 How to reach me **manishr9919@gmail.com**
+- 📫 How to reach me  manishr9919@gmail.com
 
-- 📄 Know about my experiences [file:///C:/Users/manis/Desktop/profesenal%20resume/Manish%20Kumar%20Rauniyar-cap06_072-Frontend%20Developer(React)%20(1).pdf](file:///C:/Users/manis/Desktop/profesenal%20resume/Manish%20Kumar%20Rauniyar-cap06_072-Frontend%20Developer(React)%20(1).pdf)
 
-- ⚡ Fun fact **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@manjish rauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@manjish rauniyar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in///www.linkedin.com/in/manish-kumar-rauniyar-52055421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="//www.linkedin.com/in/manish-kumar-rauniyar-52055421a/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/manish-kumar-rauniyar-52055421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumar-rauniyar-52055421a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
