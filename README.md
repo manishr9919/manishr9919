@@ -9,7 +9,7 @@
     <!-- <image  width="400px" align="center" src="C:\Users\manis\Desktop\profesenal resume\portfolio\images\manish.JPG"></image> -->
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishr9919&label=Profile%20views&color=0e75b6&style=flat" alt="manishr9919" /> </p>
-![ my photo](https://github.com/manishr9919/photo/blob/main/manish.JPG?raw=true)
+![ my photo](https://github.com/manishr9919/manishr9919/blob/main/manish.JPG)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishr9919" alt="manishr9919" /></a> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishr9919" alt="manishr9919" />
