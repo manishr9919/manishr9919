@@ -45,10 +45,12 @@ Area of Responsibility: Created Customer and Category modules. Handled all excep
 <a herf="manishr9919.github.io/project/">Live Links</a>
 </div>
 </div>
+             <hr>
 <br><br>
 
 
-
+ <h1 align="center">Github State</h1>
+ <hr><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishr9919&show_icons=true&locale=en&layout=compact" alt="manishr9919" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishr9919&show_icons=true&locale=en" alt="manishr9919" /></p>
