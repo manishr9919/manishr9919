@@ -29,6 +29,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div>
+   <div id=container display="flex"><div>
+       <h4>Sehproha.com</h4>
+         <image src=""/>
+             <p>Description: Developed an e-commerce application for Sephora.
+Features: User and admin registration and authentication functionality. Designed and built the front-end user interface. Implemented dynamic time and date updates based on the user's selected date and time.
+Tech Stack: HTML, CSS, JavaScript, Git.
+Area of Responsibility: Created Customer and Category modules. Handled all exceptions, validations, and the GitHub repository. Implemented Spring Security in the application.</p>
+<a herf="manishr9919.github.io/project/">Live Links</a>
+
+  
+
+   
+        
+</div>
+    
+</div>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <h1 align=center> Project</h1>
