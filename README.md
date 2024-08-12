@@ -5,6 +5,7 @@
      Strong problem-solving abilities and effective collaboration in team settings.
      Eager to contribute technical and soft skills to a forward-thinking organization.</p>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishr9919&label=Profile%20views&color=0e75b6&style=flat" alt="manishr9919" /> </p>
 <!-- <image  width="400px" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
     <!-- <image  width="400px" align="center" src="C:\Users\manis\Desktop\profesenal resume\portfolio\images\manish.JPG"></image> -->
      
