@@ -44,7 +44,8 @@
 Features: User and admin registration and authentication functionality. Designed and built the front-end user interface. Implemented dynamic time and date updates based on the user's selected date and time.
 Tech Stack: HTML, CSS, JavaScript, Git.
 Area of Responsibility: Created Customer and Category modules. Handled all exceptions, validations, and the GitHub repository. Implemented Spring Security in the application.</p>
-<div display="flex"><a href="manishr9919.github.io/project/">Live Links</a>
+<div display="flex"width="250",height="150",justifycontaint="space-evenly"><a href="manishr9919.github.io/project/">Live Links</a>
+    
              <a href="github.com/manishr9919/project">Github Links</a></div>
 
 </div>
