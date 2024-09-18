@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at [https://rauniyar.netlify.app/](https://rauniyar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manish9919.netlify.app/](https://manish9919.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS Javascript react mongoDB,node.js**
 
 - 📫 How to reach me **manishr9919@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/147qPg_xeNjMLYRU4GB7eFvinlYEyv_KI/view?usp=sharingpyjXMrbyFy2fDKyEX2YQdPkDtwb-qO/view?usp=drive_link](https://drive.google.com/file/d/147qPg_xeNjMLYRU4GB7eFvinlYEyv_KI/view?usp=sharingpyjXMrbyFy2fDKyEX2YQdPkDtwb-qO/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bcHZ4WK6egR64YeNf_B0KJzlka-stGGa/view?usp=sharing](https://drive.google.com/file/d/1bcHZ4WK6egR64YeNf_B0KJzlka-stGGa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
